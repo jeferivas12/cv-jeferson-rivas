@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cv-jeferson-rivas/static/css/main.7cfdb5c6.css",
+    "main.js": "/cv-jeferson-rivas/static/js/main.99606fbe.js",
+    "static/media/fondo.jpg": "/cv-jeferson-rivas/static/media/fondo.0ab4d34d8f2f07d15603.jpg",
+    "static/media/itm2.png": "/cv-jeferson-rivas/static/media/itm2.c4a4f9b574a2e3fd5243.png",
+    "index.html": "/cv-jeferson-rivas/index.html",
+    "main.7cfdb5c6.css.map": "/cv-jeferson-rivas/static/css/main.7cfdb5c6.css.map",
+    "main.99606fbe.js.map": "/cv-jeferson-rivas/static/js/main.99606fbe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7cfdb5c6.css",
+    "static/js/main.99606fbe.js"
+  ]
+}
